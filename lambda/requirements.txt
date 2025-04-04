@@ -1,0 +1,12 @@
+python-dotenv
+langchain 
+langgraph
+streamlit
+langchain-community
+langchain-aws
+boto3
+python-multipart
+jinja2
+graphviz
+mistralai
+
